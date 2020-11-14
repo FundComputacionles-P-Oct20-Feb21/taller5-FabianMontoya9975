@@ -4,7 +4,7 @@
 2. numeroDias, i[0,n]
 3. precioDiario, d[0,n]
 4. subTotal, d[0,n]
-5. descuentoNulo <-- 0
+5. descuentoNulo, d[0] <-- 0
 6. descuento1, d[0,n]
 7. descuento2, d[0,n]
 8. descuento3, d[0,n]

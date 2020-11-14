@@ -23,9 +23,17 @@
 
 //salida
 17. Si cantidad > 50 entonces
-18.   Escribir "El valor total a pagar mas el 15% de descuento es: " + descuentoTotal
-19. De lo contrario
-20.   Escribir "El valor total a pagar es: " + total
-21. Fin Si
+18.   Escribir "Decripción: " + descripcion
+19.   Escribir "N° de unidades requeridas: " + cantidad
+20.   Escribir "Subtotal: " + total
+21.   Escribir "Descuento 15%: " + descuento
+22.   Escribir "Total a pagar: " + descuentoTotal
+23. De lo contrario
+24.   Escribir "Decripción: " + descripcion
+25.   Escribir "N° de unidades requeridas: " + cantidad
+26.   Escribir "Subtotal: " + total
+27.   Escribir "Descuento 0%: 0.00"
+28.   Escribir "Total a pagar: " + total
+29. Fin Si
 
-22. Fin
+30. Fin
